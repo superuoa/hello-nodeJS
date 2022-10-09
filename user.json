@@ -1,0 +1,20 @@
+{
+    "user1":{
+       "name":"Kriangsak Pornpantiva",
+       "password":"password1",
+       "position":"Programmer",
+       "id":1
+    },
+    "user2":{
+       "name":"John Smith",
+       "password":"1234",
+       "position":"Accounting",
+       "id":2
+    },
+    "user3":{
+       "name":"Clark Kent",
+       "password":"superman",
+       "position":"Super Hero",
+       "id":3
+    }
+}
